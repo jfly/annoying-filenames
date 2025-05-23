@@ -1,6 +1,6 @@
 # annoying-filenames
 
-This repo will contain a few files with "annoying" names.
+This repo contains a few files with "annoying" names.
 
 This is useful for testing [nixpkgs's `fetchpatch`
 utilities](https://nixos.org/manual/nixpkgs/stable/#fetchpatch), but perhaps
